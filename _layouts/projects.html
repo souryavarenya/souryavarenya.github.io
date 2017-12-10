@@ -1,0 +1,66 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign show_collection = page.show_collection | default:"projects" %}
+{% assign ordered_projects = site[show_collection] | sort:"date" | reverse %}
+
+{% assign projects_group_by = site.data.strings.date_formats.projects_group_by | default:"%Y" %}
+
+<!--Major Projects-->
+
+<h2>Major Projects</h2>
+
+{% for project in ordered_projects %}
+  {% assign currentdate = project.date | date:projects_group_by %}
+
+  {% if currentdate != date %}
+    {% unless forloop.first %}</div>{% endunless %}
+
+    <h3 id="{{ projects_group_by | slugify }}-{{ currentdate | slugify }}">{{ currentdate }}</h3>
+    <div class="columns">
+    {% assign date = currentdate %}
+  {% endif %}
+
+  
+  {% assign featured = page.featured | default:project.featured | default:page.big_project | default:project.big_project %}
+
+    {% if featured %}
+    <div class="column column-1">
+      {% include pro/project-card.html project=project featured=featured %}
+    </div>
+    {% endif %}
+
+  {% if forloop.last %}</div>{% endif %}
+{% endfor %}
+
+<!--Semester Projects-->
+<h2>Semester Projects</h2>
+
+{% for project in ordered_projects %}
+{% assign currentdate = project.date | date:projects_group_by %}
+
+{% if currentdate != date %}
+  {% unless forloop.first %}</div>{% endunless %}
+
+  <h3 id="{{ projects_group_by | slugify }}-{{ currentdate | slugify }}">{{ currentdate }}</h3>
+  <div class="columns">
+  {% assign date = currentdate %}
+{% endif %}
+
+
+{% assign featured = page.featured | default:project.featured | default:page.big_project | default:project.big_project %}
+
+  {% if featured != true %}
+  <div class="column column-1-2">
+    {% include pro/project-card.html project=project featured=featured %}
+  </div>
+  {% endif %}
+
+{% if forloop.last %}</div>{% endif %}
+{% endfor %}
+
+
+<!--div class="column {% if featured %}column-1{% else %}column-1-2{% endif %}"></div-->

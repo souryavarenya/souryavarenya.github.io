@@ -1,6 +1,6 @@
 ---
 layout:       project
-date:         06 Aug 2017
+date:         06 Aug 2012
 title:        Pretentious
 caption:      A pretentious two-column Jekyll theme.
 description:  >

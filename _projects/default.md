@@ -1,10 +1,10 @@
 ---
 layout:       project
-date:         07 Aug 2017
-title:        Default
-caption:      So fresh and young.
+date:         07 Dec 2017
+title:        Team Anveshak
+caption:      The Mars Rover design team
 description:  >
-  This theme is so fresh and young, it's basically overpriced apple cider for the web.
+  A team of 30, engineering a powerful semi-autonomous rover for mars exploration
 image:        /assets/img/projects/default.jpg
 screenshot:
   src:        /assets/img/projects/default.jpg

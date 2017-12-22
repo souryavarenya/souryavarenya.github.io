@@ -8,3 +8,5 @@ menu: true
 order: 3
 rel: me
 ---
+
+### Download my full resume [here](/assets/KSSouryaVarenya.pdf).

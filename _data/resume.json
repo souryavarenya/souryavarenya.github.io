@@ -44,118 +44,112 @@
     },
     {
       "company": "R2D2 Lab, IIT Madras",
-      "position": "President",
-      "website": "https://anveshak.team",
-      "startDate": "2015-10-25",
+      "position": "Undergraduate Researcher",
+      "website": "https://home.iitm.ac.in/r2d2/index.html",
+      "startDate": "2017-06-25",
       "endDate": "",
-      "summary": "The Mars rover team of IIT Madras which engineers a powerful semi-autonomous all-terrain vehicle for the scientific exploration of Mars",
+      "summary": "Knee joint mechanism for providing natural gait among patients with weak knee extensors",
       "highlights": [
-        "Lead the Chassis Design for the first version of the rover",
-        "Successfully headed the team and participated in the University Rover Challenge 2017",
-        "Conducted a successful crowdfunding campaign, raising INR 1.75L ($2700) and efficiently administered team finances",
-        "Networked with companies - Maxon and Pololu - for accessing excusive discounts on their products",
-        "Co-heading the design of TeRA – Tele-operated Robotic Arm, a unique manipulator constructed for rover with end-to-end design analysis"
+        "Devised an electromechanical clutch-based mechanism for achieving selective unlocking the orthoses and performed FEA for load verification",
+        "Prototyped the knee joint with easily machinable materials and necessary electronics for validating the mechanism and the control strategy",
+        "Interfaced ESP32 microcontroller with force sensor to identify gait events",
+        "Currently embedding lightweight linear actuator on existing orthosis for implementing locking and unlocking, based on the force sensor reading"
       ],
     },
     {
-      "company": "Team Anveshak",
-      "position": "President",
-      "website": "https://anveshak.team",
-      "startDate": "2015-10-25",
+      "company": "Robotics Lab",
+      "position": "Undergraduate Researcher",
+      "website": "https://ed.iitm.ac.in/~robotics_lab/",
+      "startDate": "2017-01-25",
       "endDate": "",
-      "summary": "The Mars rover team of IIT Madras which engineers a powerful semi-autonomous all-terrain vehicle for the scientific exploration of Mars",
+      "summary": "Novel serial chain manipulator robot with locomotion and hybrid grasping",
       "highlights": [
-        "Lead the Chassis Design for the first version of the rover",
-        "Successfully headed the team and participated in the University Rover Challenge 2017",
-        "Conducted a successful crowdfunding campaign, raising INR 1.75L ($2700) and efficiently administered team finances",
-        "Networked with companies - Maxon and Pololu - for accessing excusive discounts on their products",
-        "Co-heading the design of TeRA – Tele-operated Robotic Arm, a unique manipulator constructed for rover with end-to-end design analysis"
+        "Simulated PID control on model - Lagrangian Mechanics in Mathematica",
+        "Designed and fabricated a prototype containing 2 grippers linked serial chain providing the ability to locomote, grasp and perform in-hand manipulation enabled by intricate roller belt grasping mechanism",
+        "Experimented on the grasping force for objects of different sizes and shapes to use it as a parameter for comparison across grippers",
       ],
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "https://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
+      "organization": "CBSE Udaan",
+      "position": "Tutor",
+      "startDate": "2014-09-15",
+      "endDate": "2014-12-25",
+      "summary": "Recorded Lectures on topics - Conic sections and Calculus for distributing to unprivileged girl population of India"
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "Indian Institute of Technology Madras",
+      "area": "Mechanical Engineering",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "startDate": "2014-07-01",
+      "endDate": "2018-05-25",
+      "gpa": "9.52*"
     }
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "GraspMan – A Novel Robotic Platform with Grasping, Manipulation, and Multimodal Locomotion Capability",
+      "summary": "Submission for ICRA 2018 - Under Review"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "CAD modelling",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Fusion 360",
+        "Autodesk Inventor"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Programming",
+      "level": "Intermediate",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Python",
+        "C#",
+        "MATLAB"
       ]
-    }
-  ],
-  "languages": [
+    },
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "name": "Digital Electronics",
+      "level": "Intermediate",
+      "keywords": [
+        "Arduino",
+        "Raspberry Pi"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Beginner",
+      "keywords": [
+        "HTML/CSS",
+        "PHP",
+        "Jekyll"
+      ]
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Research",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Exoskeletons",
+        "Manipulators and Graspers",
+        "Assistive Technologies",
+        "Mechanism Design"
+      ]
+    },
+    {
+      "name": "General",
+      "keywords": [
+        "Painting",
+        "Sculpting",
+        "Philosophy",
+        "Music",
+        "Violin"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ]
 }

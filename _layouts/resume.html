@@ -2,6 +2,8 @@
 layout: base
 ---
 
+{{ content }}
+
 {% assign strings = site.data.strings %}
 {% assign colon = strings.colon | default:":" %}
 {% assign icons = strings.resume.icons %}
@@ -320,7 +322,7 @@ layout: base
               {% capture name %}{% include link.html title=pub.name href=pub.website span_class="bc" %}{% endcapture %}
               {% capture publisher %}<span class="bc">{{ pub.publisher }}</span>{% endcapture %}
               {{ strings.resume.publications_title
-                | default:"<!--name--> by <!--publisher-->"
+                | default:"<!--name--> <!--publisher-->"
                 | replace:"<!--name-->", name
                 | replace:"<!--publisher-->", publisher
               }}

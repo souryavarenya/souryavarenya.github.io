@@ -4,7 +4,7 @@ date:         30 Apr 2015
 title:        Self Balancing Robot
 caption:      Project for the course - Instrumentation and Control
 description:  >
-  Project for giving hands-on experience to basic controls and Instrumentation.
+  Project for giving hands-on experience to basic controls and instrumentation.
 image:        /assets/img/project/sbr.jpg
 screenshot:
   path:       /assets/img/project/sbr.jpg

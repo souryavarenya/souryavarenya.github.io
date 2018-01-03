@@ -33,7 +33,7 @@ With an ambition to build a new team and train them, we conducted a recruitment 
 ### Head, Chassis design
 *January 2017*
 
-![design](chassis.jpg){:.lead}
+![design](Chassis.jpg){:.lead}
 It was just few months before the competition and we were stuck on the chassis design with an irresponsible _friend of mine_. Sounds like a complain but dealing with this was certainly a tough job and eventually,  as it got intolerable, it was time for me to take the job over and having been inclined towards mechanical design, I was motivated sufficiently to take it up for the team. I was decently exposed to the CAD software and I found Fusion 360 to be the most intuitive one. It took a rebellion to get the entire team to adopt Fusion 360 but it was all worth the efforts. I never gave up on endorsing it (I wasn't paid for that!). Then followed the 4 days during which I, along with a bunch of people, showered insane efforts on getting the first render of our Rover. I would like to credit a close brother of mine - Akshay Molawade, for a well-planned execution of the manufacturing in the coming months. We gave birth to a new design team that was just unstoppable.
 
 ### University Rover Challenge 2017, MDRS, Utah

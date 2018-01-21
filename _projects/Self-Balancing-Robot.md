@@ -14,5 +14,10 @@ screenshot:
     480w:     /assets/img/project/sbr.jpg
 
 ---
+Below is the video of my course project - Instrumentation and Control
 
-<iframe class = "videowrapper" src="https://www.youtube.com/embed/0pzGdVTDJ8c" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<div class="videowrapper">
+  <iframe src="https://www.youtube.com/embed/0pzGdVTDJ8c?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen> </iframe>
+</div>
+
+<!-- style="width: 100%; height:100%;" -->

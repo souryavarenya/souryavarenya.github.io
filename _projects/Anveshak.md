@@ -47,7 +47,7 @@ This was probably one of the most memorable trips I have had till date. We were 
 ### Logo design
 *December 2017*
 
-Nothing much to describe here except for one important learning I made - things like music, paintings and graphic arts are made to please people and your perspective loses its worth if it doesn't fit well with the majority's. How much ever great your vision or talent is, not being able to express it in a convincing manner could be extremely challenging and frustrating.
+Nothing much to describe here except for one important learning I made - things like music, paintings and graphic arts are made to please people and your perspective loses its worth if it doesn't fit well with the majority's. How much ever great your vision or talent is, not being able to express it in a convincing manner could be extremely frustrating.
 
 ![logo1](logo.png){:.lead}
 

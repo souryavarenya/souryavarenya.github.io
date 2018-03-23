@@ -19,6 +19,8 @@ accent_image: /assets/img/sidebar-bg.jpg
 ---
 A Knee-Ankle-Foot Orthosis (KAFO) is commonly prescribed to people with the knee extensor muscle weakness, to assist them during walking. A conventional KAFO locks the knee during both the stance (load-bearing) and the swing (ground clearing) phase of walking which results in unnatural and tiring gait. Researchers have attempted to solve this problem by designing Stance Control Orthoses (SCO) which locks the knee during stance phase and allows free knee flexion to clear the ground thus mimicking a normal human gait. However, these devices mostly available in Western countries are bulky, expensive and do not meet the needs (squatting, cross-legged sitting and ease of maintenance etc.) of people in India and other developing countries.
 
+## 2017
+
 ### Design Details
 
 The key factor in the design is the holding torque of the clutch mechanism to provide stability against the flexion of the knee joint during walking. This design utilizes wedge mechanism to push the clutch plates out and locks the knee during stance phase.
@@ -44,3 +46,19 @@ Although the above model would be functionally validated, it is extremely import
 Compaction of the electronics is one of the major tasks that has to be accomplished. A careful finalization of the components has to be done and PCBs would be fabricated for the same. As far as the electronics are concerned, an extensive testing must be performed to be able to distribute it to the users with reliable functionality. This includes aspects such as optimization of battery life and inclusion of emergency features in case the joint malfunctions. Majority of the above-mentioned tasks relating to electronics are tentatively scheduled to be finished in the winter term.
 
 Getting this project out into the market is a great challenge and cannot be achieved without rigorous testing of the mechanism for flaws. The planned progression includes testing it on able-bodied subjects in the initial phase to verify its functionality and then conduct clinical trials on actual patients. This is precisely where we might find the literature survey to be extremely useful - to understand the training procedure adopted by different research groups. This is expected to be one of the major deliverables set for the coming semester.
+
+## 2018
+
+After some critical observations made on the above-mentioned prototype, there has been an entire redesign of the knee joint. Now it's a purely mechanical system which boasts of being affordable and easy to manufacture and assemble. The entire construction is fastener-free, except for the uprights attachment points.
+
+### New Design
+
+Below are some renders of the new prototype
+
+![new design](R1.png){:.lead}
+
+![design2](ani2.gif){:.lead}
+
+![simulation](sim2.gif){:.lead}
+
+This mechanism leverages the slightest displacement caused by loading the orthoses frame with the human weight - to lock the joint. Currently, the joint is being assembled for testing with able-bodied subjects and some UTM testing.

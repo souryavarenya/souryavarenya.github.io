@@ -18,10 +18,10 @@ This project was done for the course AM5011 - Virtual Reality Engineering. The a
 
 ![design](components.jpg){:.lead}
 
-As you can see in the above image, a tablet has been used for taking the touch input and also for providing the pitch and roll angle feedback. This tablet connects to the microcontroller(Arduino Mega) over Bluetooth. At the end, the two servos which are attached to the frame control the pitch and roll angles. Due to the nature of the attachment, this setup works best while simulating a spherical surface. To achieve a complete simulating capability, we need to incorporate a vertical actuation (Z axis). Also, pairing this with a VR headset would result in an amazing immersive experience.
+As you can see in the above image, an android tablet has been used for taking the touch input and also for providing the pitch and roll angle feedback. This tablet connects to the microcontroller(Arduino Mega) over Bluetooth. At the end, the two servos which are attached to the frame control the pitch and roll angles. Due to the nature of the attachment, this setup works best while simulating a spherical surface. To achieve a complete simulating capability, we need to incorporate a vertical actuation (Z axis). Also, pairing this with a VR headset would result in an amazing immersive experience.
 
 <div class="videowrapper">
-  <iframe src="https://www.youtube.com/embed/0pzGdVTDJ8c?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen> </iframe>
+  <iframe src="https://www.youtube.com/embed/aZKGbDbsQn8  ?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen> </iframe>
 </div>
 
 <!-- style="width: 100%; height:100%;" -->

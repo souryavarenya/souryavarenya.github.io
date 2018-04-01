@@ -8,19 +8,10 @@ hide_description: false
 
 ---
 
-Although I have spent most of my life in Mumbai, I am a native speaker of Telugu (can read and write too!). I have had my hands into all random arts - Carnatic Vocal, Painting, Violin, Chalk and Pencil sculpting, 3D modeling etc. Being in the exploration phase, I am still attempting to widen my knowledge before I narrow down on one and go deeper. You might want to dig my Facebook account for better insights into my personal life. 
+Although I have spent most of my life in Mumbai, I am a native speaker of Telugu (can read and write too!). I have had my hands into all random arts - Carnatic Vocal, Painting, Violin, Chalk and Pencil sculpting, 3D modeling etc. Being in the exploration phase, I am still attempting to widen my knowledge before I narrow down on one and go deeper.
 
+I will be graduating in June 2018 with a B.Tech. degree in Mechanical Engineering from IIT Madras. Four years at IIT Madras has been an amazing journey, making me realize several things about myself and how world works. Anveshak - the Mars rover design team has been my major investment during these 4 years and you can find more about it in "My Work" section.
 
-#### A peek into my thoughts...
-Ever since I was introduced to the *exploration vs exploitation* concept in Reinforcement Learning, I have tried to justify all my actions under this philosophy. Is that how all humans work? Let's consider each human life to be a trial. Through each and every step in life, we are trying to get better. In the early phases, we are trying to explore different work profiles and the success rate would be fairly low. Once we have figured out our career, we constantly exploit the same strategy (profession) to gain more success (earn more?). Now, there are several intricacies to this analogy and also a possibility for this model to be totally irrelevant. The following questions might help us dig deeper on this.
+Eventually, I wish to get into academia to nourish my passion for research and innovation. Practicing private research would be my future ambition but the feasibility is still in question.
 
-* Are we living in a simulation? If yes, who's the one playing it?
-* How can we account for the exceptions? 
-* How do we mathematically model the world? Would such simulation result in any meaningful prediction?
-* Damn! it's  too complicated
-
-In a computer simulation, you have the liberty to run as many trials as you wish to but you have just one life.
-
-If I ever find myself considerably free, I would push for a blog on these random thoughts.
-
-
+Thanks for stopping by! 

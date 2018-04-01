@@ -9,4 +9,4 @@ order: 3
 rel: me
 ---
 
-### Download my full resume [here](/assets/KSSouryaVarenya.pdf).
+### Download my full resume [here](/assets/SouryaKovvali.pdf).

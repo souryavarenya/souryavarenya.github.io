@@ -51,9 +51,31 @@
       "summary": "Knee joint mechanism for providing natural gait among patients with weak knee extensors",
       "highlights": [
         "Devised an electromechanical clutch-based mechanism for achieving selective unlocking the orthoses and performed FEA for load verification",
-        "Prototyped the knee joint with easily machinable materials and necessary electronics for validating the mechanism and the control strategy",
-        "Interfaced ESP32 microcontroller with force sensor to identify gait events",
-        "Currently embedding lightweight linear actuator on existing orthosis for implementing locking and unlocking, based on the force sensor reading"
+        "Prototyped a sample knee joint with necessary electronics for validating the mechanism and the control strategy",
+        "Developed purely mechanical system to perform selective locking of knee joint",
+        "Currently testing performance on UTM and able-bodied subjects"
+      ],
+    },
+    {
+      "company": "Skillveri Pvt Ltd",
+      "position": "Product Development Intern",
+      "startDate": "2018-01-15",
+      "endDate": "",
+      "summary": "Development of an arc welding simulator",
+      "highlights": [
+        "Designed and fabricated Arc Welding Torch for VR simulator setup that utilizes a retracting rod mechanism for the electrode feed",
+        "Integrated and programmed microcontroller for PID controlled retraction rate and  IMU orientation feedback"
+      ],
+    },
+    {
+      "company": "Detect Technologies",
+      "position": "Product Development Intern",
+      "startDate": "2015-12-05",
+      "endDate": "2016-02-15",
+      "summary": "Design and Fabrication of casings",
+      "highlights": [
+        "Ported thermal camera core to GoPro form-factor for compatibility with existing gimbals on surveillance drones",
+        "Adopted iterative designing and manufacturing cycles for achieving accurate tolerances and optimized weight distribution"
       ],
     },
     {
@@ -61,7 +83,7 @@
       "position": "Undergraduate Researcher",
       "website": "https://ed.iitm.ac.in/~robotics_lab/",
       "startDate": "2017-01-25",
-      "endDate": "",
+      "endDate": "2017-10-10",
       "summary": "Novel serial chain manipulator robot with locomotion and hybrid grasping",
       "highlights": [
         "Simulated PID control on model - Lagrangian Mechanics in Mathematica",
@@ -92,7 +114,7 @@
   "publications": [
     {
       "name": "GraspMan – A Novel Robotic Platform with Grasping, Manipulation, and Multimodal Locomotion Capability",
-      "summary": "Submission for ICRA 2018 - Under Review"
+      "summary": "Accepted for ICRA 2018"
     }
   ],
   "skills": [

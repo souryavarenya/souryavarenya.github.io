@@ -61,4 +61,47 @@ Below are some renders of the new prototype
 
 ![simulation](sim2.gif){:.lead}
 
-This mechanism leverages the slightest displacement caused by loading the orthoses frame with the human weight - to lock the joint. Currently, the joint is being assembled for testing with able-bodied subjects and some UTM testing.
+This mechanism leverages the slightest displacement caused by loading the orthoses frame with the human weight - to lock the joint. We'll refer to the above version as v1 of passive knee joint for further reference.
+
+*UPDATE MARCH 2018*
+
+Learning from the above experience, the design has been iterated to be simpler and more robust than it's predecessor. You can find the description below.
+
+### Design Details
+
+This design attempts to address the failure points of the above proposed mechanisms. This revision manages to bring the same features without compromising on the locking strength. This iteration retains the design philosophy of the previous two, while simplifying the mechanism by a huge margin. This also resolves the issue of excessive friction encountered in the above version when the upright fasteners were tightened. Small features like filleted corners and hyperextension block were a result of suggestions made on the initial design.
+
+![design3](des3.png){:.lead}
+
+All the involved components were laser-cut with remarkable accuracy except for the bearings and shafts involved. This design involves only 21 laser cut components in contrast to first version, which contained 33 parts. Unlike the previous joint, this is not fully-fastener free because of the screws coupling plates with the spacer. This inherits all the other features that belonged to first version of passive joint.
+
+![design4](diags.png){:.lead}
+
+For the locking, it utilizes the human weight which causes a vertical displacement of 3mm, which directly engages the teeth, hence locking it. The load is now borne by a width of 9mm instead of 3mm in the old design. This massively increases the load bearing capacity of the joint. The spring used over here has been designed according to the loading needs.
+
+### Simulations
+
+FEA was performed on the entire assembly by applying loading in 3 cases – Force, Moment and Combined. These three cases cover all the situations along a gait cycle and can be assumed safe if it passes through all the cases. The results suggest that the entire assembly would be safe in operation.
+
+![fea2](fea.png){:.lead}
+
+### Manufacturing and Assembly
+
+Manufacturing was majorly done using laser cutting and the process was accurate, inexpensive and fast. Having lesser number of parts in this iteration helped reduce the manufacturing time and consumed less footprint. The left-over sheet can be seen in the picture below.
+
+![manu1](manu1.jpg){:.lead}
+![manu2](manu2.jpg){:.lead}
+
+The assembly was simple considering the experience gained in the fabrication of the first version. Suitable shafts and dowel pins were bought/manufactured for the assembly.
+
+Two joints have been assembled for testing purposes and initial testing has been carried out by wearing it on to the author’s KAFO. The prototype will undergo testing on a Universal Testing Machine where a suitable static load will be applied on to the joint and it will be tested for its endurance.
+
+Summing up, this design variant of the knee joint not only inherits the features from the first variant but also adds some major assembly benefits while maintaining the design philosophy. Laser-cutting has been the choice for fabrication not only because of speed and cost benefits but also because of it’s ability to machine intricate shapes.
+
+*UPDATE MAY 2018*
+
+I have finished my poster presentation on this project and this officially wraps up my B.Tech process. However, I am continuing my term here in the summer for wrapping this project up. Here's my poster!
+
+![poster](P1.png){:.lead}
+
+Also, [here's](report.pdf) the report for my project. Hope you learnt something from this!

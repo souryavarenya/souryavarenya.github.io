@@ -2,7 +2,7 @@
 layout: resume
 title: Résumé
 description: >
-  Hello, I am Sourya, a senior undergraduate at Dept. of Mechanical Engineering, IIT Madras. I am currently seeking an admission for a Ph.D. program.
+  Hello, I am Sourya, a graduated mechanical engineer from Mumbai, India. I am looking forward to pursuing graduate studies in Robotics, focusing on design and control.
 hide_description: false
 menu: true
 order: 3

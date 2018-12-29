@@ -13,7 +13,7 @@ screenshot:
     960w:     /assets/img/project/chronos.png
     480w:     /assets/img/project/chronos.png
 
-featured:     true
+coupro: true
 #accent_color: '#ee682a'
 #accent_image: /assets/img/sidebar-bg.jpg
 ---

@@ -12,7 +12,7 @@ screenshot:
     1920w:    /assets/img/project/tril.png
     960w:     /assets/img/project/tril.png
     480w:     /assets/img/project/tril.png
-
+coupro: true
 ---
 This simple project demonstrates how indoor trilateration can be done with inexpensive ESP8266 modules.
 

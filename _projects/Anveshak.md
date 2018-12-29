@@ -1,6 +1,6 @@
 ---
 layout:       project
-date:         07 Dec 2017
+date:         07 June 2018
 title:        Team Anveshak
 caption:      The Mars Rover design team
 description:  >

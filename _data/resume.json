@@ -7,11 +7,11 @@
     "phone": "(91) 908 7863 809",
     "website": "http://sourya.me",
     "location": {
-      "address": "152, Alakananda Hostel, IIT Madras",
-      "postalCode": "600036",
-      "city": "Chennai",
+      "address": "A-202, Nestle 2, Lower Parel",
+      "postalCode": "400013",
+      "city": "Mumbai",
       "countryCode": "IN",
-      "region": "Tamil Nadu"
+      "region": "Maharashtra"
     },
     "profiles": [
       {
@@ -28,11 +28,37 @@
   },
   "work": [
     {
+      "company": "Intelligent and Dynamic Systems Lab, IIT Bombay",
+      "position": "Research Assistant",
+      "website": "https://viveksangwan.com/",
+      "startDate": "2018-08-25",
+      "endDate": "",
+      "summary": "Design of Biped Test Bench for underactuated control",
+      "highlights": [
+        "Designed bipedal robot and a rotating testbench for conducting experiments on locomotion",
+        "Setup simulation environment and interfacing hardware and developing control architecture for the biped",
+      ],
+    },
+    {
+      "company": "R2D2 Lab, IIT Madras",
+      "position": "Undergraduate Researcher",
+      "website": "https://home.iitm.ac.in/r2d2/index.html",
+      "startDate": "2017-06-25",
+      "endDate": "2018-06-20",
+      "summary": "Knee joint mechanism for providing natural gait among patients with weak knee extensors",
+      "highlights": [
+        "Devised an electromechanical clutch-based mechanism for achieving selective unlocking the orthoses and performed FEA for load verification",
+        "Prototyped a sample knee joint with necessary electronics for validating the mechanism and the control strategy",
+        "Developed purely mechanical system to perform selective locking of knee joint",
+        "Currently testing performance on UTM and able-bodied subjects"
+      ],
+    },
+    {
       "company": "Team Anveshak",
       "position": "President",
       "website": "https://anveshak.team",
       "startDate": "2015-10-25",
-      "endDate": "",
+      "endDate": "2018-06-20",
       "summary": "The Mars rover team of IIT Madras which engineers a powerful semi-autonomous all-terrain vehicle for the scientific exploration of Mars",
       "highlights": [
         "Lead the Chassis Design for the first version of the rover",
@@ -43,24 +69,23 @@
       ],
     },
     {
-      "company": "R2D2 Lab, IIT Madras",
+      "company": "Robotics Lab",
       "position": "Undergraduate Researcher",
-      "website": "https://home.iitm.ac.in/r2d2/index.html",
-      "startDate": "2017-06-25",
-      "endDate": "",
-      "summary": "Knee joint mechanism for providing natural gait among patients with weak knee extensors",
+      "website": "https://ed.iitm.ac.in/~robotics_lab/",
+      "startDate": "2017-01-25",
+      "endDate": "2017-10-10",
+      "summary": "Novel serial chain manipulator robot with locomotion and hybrid grasping",
       "highlights": [
-        "Devised an electromechanical clutch-based mechanism for achieving selective unlocking the orthoses and performed FEA for load verification",
-        "Prototyped a sample knee joint with necessary electronics for validating the mechanism and the control strategy",
-        "Developed purely mechanical system to perform selective locking of knee joint",
-        "Currently testing performance on UTM and able-bodied subjects"
+        "Simulated PID control on model - Lagrangian Mechanics in Mathematica",
+        "Designed and fabricated a prototype containing 2 grippers linked serial chain providing the ability to locomote, grasp and perform in-hand manipulation enabled by intricate roller belt grasping mechanism",
+        "Experimented on the grasping force for objects of different sizes and shapes to use it as a parameter for comparison across grippers",
       ],
     },
     {
       "company": "Skillveri Pvt Ltd",
       "position": "Product Development Intern",
       "startDate": "2018-01-15",
-      "endDate": "",
+      "endDate": "2018-04-15",
       "summary": "Development of an arc welding simulator",
       "highlights": [
         "Designed and fabricated Arc Welding Torch for VR simulator setup that utilizes a retracting rod mechanism for the electrode feed",
@@ -78,19 +103,6 @@
         "Adopted iterative designing and manufacturing cycles for achieving accurate tolerances and optimized weight distribution"
       ],
     },
-    {
-      "company": "Robotics Lab",
-      "position": "Undergraduate Researcher",
-      "website": "https://ed.iitm.ac.in/~robotics_lab/",
-      "startDate": "2017-01-25",
-      "endDate": "2017-10-10",
-      "summary": "Novel serial chain manipulator robot with locomotion and hybrid grasping",
-      "highlights": [
-        "Simulated PID control on model - Lagrangian Mechanics in Mathematica",
-        "Designed and fabricated a prototype containing 2 grippers linked serial chain providing the ability to locomote, grasp and perform in-hand manipulation enabled by intricate roller belt grasping mechanism",
-        "Experimented on the grasping force for objects of different sizes and shapes to use it as a parameter for comparison across grippers",
-      ],
-    }
   ],
   "volunteer": [
     {
@@ -108,7 +120,7 @@
       "studyType": "Bachelor",
       "startDate": "2014-07-01",
       "endDate": "2018-05-25",
-      "gpa": "9.52*"
+      "gpa": "9.51"
     }
   ],
   "publications": [
@@ -158,9 +170,10 @@
       "name": "Research",
       "keywords": [
         "Exoskeletons",
+        "Bipedal Robots",
         "Manipulators and Graspers",
         "Assistive Technologies",
-        "Mechanism Design"
+        "Mechanism Design",
       ]
     },
     {

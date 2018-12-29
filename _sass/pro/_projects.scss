@@ -2,7 +2,7 @@
   @include aspect-ratio(16, 9);
 }
 
-.layout-projects, .layout-project, .layout-welcome  {
+.layout-projects, .layout-project, .layout-welcome, .layout-homepage  {
   $pad: 1rem;
 
   .columns {

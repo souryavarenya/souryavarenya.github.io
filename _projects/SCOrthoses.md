@@ -1,6 +1,6 @@
 ---
 layout:       project
-date:         07 Dec 2017
+date:         07 Dec 2018
 title:        Stance Control Orthoses
 caption:      Bachelor Thesis Project
 description:  >

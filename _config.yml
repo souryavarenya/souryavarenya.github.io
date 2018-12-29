@@ -38,7 +38,7 @@ author:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             ©2018
+copyright:             ©2019
 
 # Format of the permalinks
 permalink:             pretty
@@ -64,7 +64,7 @@ font_heading:          "'Lato', Helvetica, Arial, sans-serif"
 
 # Fallback image and color
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          '#46891f'
+accent_color:          '#85b6d4'
 
 #4fb1ba
 # 3rd Party Integrations

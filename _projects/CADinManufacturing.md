@@ -13,6 +13,8 @@ screenshot:
     960w:     /assets/img/project/cadim.png
     480w:     /assets/img/project/cadim.png
 
+coupro: true
+
 ---
 This was probably the most interesting course in my seventh semester. With Prof. Sathyan Subbiah as the instructor, the classes and assignments were extremely engaging. All the assignments have been listed below with illustrations. Credits to my team-mate Jagannadh as well.
 

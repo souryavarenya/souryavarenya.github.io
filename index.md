@@ -1,17 +1,20 @@
 ---
-layout: welcome
+layout: homepage
 title: Kovvali Sai Sourya Varenya
 description: >
   Keywords of my Life: Robots, Mechanisms, Technology, Gadgets, Music, Violin, Philosophy of Life, Cats and Creativity
 image: /assets/img/projects/default.jpg
-hide_description: false
+hide_description: true
 
 ---
 
-Although I have spent most of my life in Mumbai, I am a native speaker of Telugu (can read and write too!). I have had my hands into all random arts - Carnatic Vocal, Painting, Violin, Chalk and Pencil sculpting, 3D modeling etc. Being in the exploration phase, I am still attempting to widen my knowledge before I narrow down on one and go deeper.
+I have graduated in June of 2018 and have begun my journey as a research assistant at the INDUS Lab of IIT Bombay. I am currently working on developing a Biped robot test bench for executing walking algorithms. Having had no experience in control theory, this has been a refreshing learning experience so far.
 
-I will be graduating in June 2018 with a B.Tech. degree in Mechanical Engineering from IIT Madras. Four years at IIT Madras has been an amazing journey, making me realize several things about myself and how world works. Anveshak - the Mars rover design team has been my major investment during these 4 years and you can find more about it in "My Work" section.
+**Here's a list of research topics that fascinate me:**
+* Exploring and exploiting _Natural Dynamics_ of robots for improving agility and energy efficiency
+* Design of robots incorporating above principles
+* Control theory and its practical aspects
 
-Eventually, I wish to get into academia to nourish my passion for research and innovation. Practicing private research would be my future ambition but the feasibility is still in question.
+Coming from a mechanical background, my mind is hardwired to think of mechanisms for generating a required motion. Having picked up some essentials of control theory, I am extremely excited of studying about the interplay of elegant control and optimized passive dynamics while building robots.
 
-Thanks for stopping by! 
+Thanks for stopping by!

@@ -13,6 +13,8 @@ screenshot:
     960w:     /assets/img/project/sbr.jpg
     480w:     /assets/img/project/sbr.jpg
 
+coupro: true
+
 ---
 Below is the video of my course project - Instrumentation and Control
 

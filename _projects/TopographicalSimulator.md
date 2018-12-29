@@ -12,7 +12,7 @@ screenshot:
     1920w:    /assets/img/project/topo.jpg
     960w:     /assets/img/project/topo.jpg
     480w:     /assets/img/project/topo.jpg
-
+coupro: true
 ---
 This project was done for the course AM5011 - Virtual Reality Engineering. The aim of the project was to come up with a device that could mimic a virtual surface. Based on the location of touch, the surface orients in such a way that the inclination of the surface matches with that of the virtual surface.
 

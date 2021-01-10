@@ -1,0 +1,190 @@
+{
+  "basics": {
+    "name": "Kovvali Sai Sourya Varenya",
+    "label": "Roboticist",
+    "picture": "/assets/img/prof.jpg",
+    "email": "souryavarenya@gmail.com",
+    "phone": "(91) 908 7863 809",
+    "website": "http://sourya.me",
+    "location": {
+      "address": "A-202, Nestle 2, Lower Parel",
+      "postalCode": "400013",
+      "city": "Mumbai",
+      "countryCode": "IN",
+      "region": "Maharashtra"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "kssouryavarenya",
+        "url": "https://twitter.com/kssouryavarenya"
+      },
+      {
+        "network": "Facebook",
+        "username": "Sourya Varenya",
+        "url": "https://www.facebook.com/sourya.varenya.5"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Intelligent and Dynamic Systems Lab, IIT Bombay",
+      "position": "Research Assistant",
+      "website": "https://viveksangwan.com/",
+      "startDate": "2018-08-25",
+      "endDate": "",
+      "summary": "Design of Biped Test Bench for underactuated control",
+      "highlights": [
+        "Designed bipedal robot and a rotating testbench for conducting experiments on locomotion",
+        "Setup simulation environment and interfacing hardware and developing control architecture for the biped",
+      ],
+    },
+    {
+      "company": "R2D2 Lab, IIT Madras",
+      "position": "Undergraduate Researcher",
+      "website": "https://home.iitm.ac.in/r2d2/index.html",
+      "startDate": "2017-06-25",
+      "endDate": "2018-06-20",
+      "summary": "Knee joint mechanism for providing natural gait among patients with weak knee extensors",
+      "highlights": [
+        "Devised an electromechanical clutch-based mechanism for achieving selective unlocking the orthoses and performed FEA for load verification",
+        "Prototyped a sample knee joint with necessary electronics for validating the mechanism and the control strategy",
+        "Developed purely mechanical system to perform selective locking of knee joint",
+        "Currently testing performance on UTM and able-bodied subjects"
+      ],
+    },
+    {
+      "company": "Team Anveshak",
+      "position": "President",
+      "website": "https://anveshak.team",
+      "startDate": "2015-10-25",
+      "endDate": "2018-06-20",
+      "summary": "The Mars rover team of IIT Madras which engineers a powerful semi-autonomous all-terrain vehicle for the scientific exploration of Mars",
+      "highlights": [
+        "Lead the Chassis Design for the first version of the rover",
+        "Successfully headed the team and participated in the University Rover Challenge 2017",
+        "Conducted a successful crowdfunding campaign, raising INR 1.75L ($2700) and efficiently administered team finances",
+        "Networked with companies - Maxon and Pololu - for accessing excusive discounts on their products",
+        "Co-heading the design of TeRA – Tele-operated Robotic Arm, a unique manipulator constructed for rover with end-to-end design analysis"
+      ],
+    },
+    {
+      "company": "Robotics Lab",
+      "position": "Undergraduate Researcher",
+      "website": "https://ed.iitm.ac.in/~robotics_lab/",
+      "startDate": "2017-01-25",
+      "endDate": "2017-10-10",
+      "summary": "Novel serial chain manipulator robot with locomotion and hybrid grasping",
+      "highlights": [
+        "Simulated PID control on model - Lagrangian Mechanics in Mathematica",
+        "Designed and fabricated a prototype containing 2 grippers linked serial chain providing the ability to locomote, grasp and perform in-hand manipulation enabled by intricate roller belt grasping mechanism",
+        "Experimented on the grasping force for objects of different sizes and shapes to use it as a parameter for comparison across grippers",
+      ],
+    },
+    {
+      "company": "Skillveri Pvt Ltd",
+      "position": "Product Development Intern",
+      "startDate": "2018-01-15",
+      "endDate": "2018-04-15",
+      "summary": "Development of an arc welding simulator",
+      "highlights": [
+        "Designed and fabricated Arc Welding Torch for VR simulator setup that utilizes a retracting rod mechanism for the electrode feed",
+        "Integrated and programmed microcontroller for PID controlled retraction rate and  IMU orientation feedback"
+      ],
+    },
+    {
+      "company": "Detect Technologies",
+      "position": "Product Development Intern",
+      "startDate": "2015-12-05",
+      "endDate": "2016-02-15",
+      "summary": "Design and Fabrication of casings",
+      "highlights": [
+        "Ported thermal camera core to GoPro form-factor for compatibility with existing gimbals on surveillance drones",
+        "Adopted iterative designing and manufacturing cycles for achieving accurate tolerances and optimized weight distribution"
+      ],
+    },
+  ],
+  "volunteer": [
+    {
+      "organization": "CBSE Udaan",
+      "position": "Tutor",
+      "startDate": "2014-09-15",
+      "endDate": "2014-12-25",
+      "summary": "Recorded Lectures on topics - Conic sections and Calculus for distributing to unprivileged girl population of India"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Technology Madras",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2014-07-01",
+      "endDate": "2018-05-25",
+      "gpa": "9.51"
+    }
+  ],
+  "publications": [
+    {
+      "name": "GraspMan – A Novel Robotic Platform with Grasping, Manipulation, and Multimodal Locomotion Capability",
+      "summary": "Accepted for ICRA 2018"
+    }
+  ],
+  "skills": [
+    {
+      "name": "CAD modelling",
+      "level": "Master",
+      "keywords": [
+        "Fusion 360",
+        "Autodesk Inventor"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Intermediate",
+      "keywords": [
+        "Python",
+        "C#",
+        "MATLAB"
+      ]
+    },
+    {
+      "name": "Digital Electronics",
+      "level": "Intermediate",
+      "keywords": [
+        "Arduino",
+        "Raspberry Pi"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Beginner",
+      "keywords": [
+        "HTML/CSS",
+        "PHP",
+        "Jekyll"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": [
+        "Exoskeletons",
+        "Bipedal Robots",
+        "Manipulators and Graspers",
+        "Assistive Technologies",
+        "Mechanism Design",
+      ]
+    },
+    {
+      "name": "General",
+      "keywords": [
+        "Painting",
+        "Sculpting",
+        "Philosophy",
+        "Music",
+        "Violin"
+      ]
+    }
+  ],
+}

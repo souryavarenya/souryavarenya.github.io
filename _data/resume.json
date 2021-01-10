@@ -1,17 +1,15 @@
 {
   "basics": {
     "name": "Kovvali Sai Sourya Varenya",
-    "label": "Roboticist",
+    "label": "Full-stack Roboticist",
     "picture": "/assets/img/prof.jpg",
-    "email": "souryavarenya@gmail.com",
-    "phone": "(91) 908 7863 809",
+    "email": "skovvali@ethz.ch",
     "website": "http://sourya.me",
     "location": {
-      "address": "A-202, Nestle 2, Lower Parel",
-      "postalCode": "400013",
-      "city": "Mumbai",
-      "countryCode": "IN",
-      "region": "Maharashtra"
+      "postalCode": "8051",
+      "city": "Zürich",
+      "countryCode": "CH",
+      "region": "Zürich"
     },
     "profiles": [
       {
@@ -26,32 +24,40 @@
       }
     ]
   },
-  "work": [
+  "education": [
     {
-      "company": "Intelligent and Dynamic Systems Lab, IIT Bombay",
-      "position": "Research Assistant",
-      "website": "https://viveksangwan.com/",
-      "startDate": "2018-08-25",
-      "endDate": "",
-      "summary": "Design of Biped Test Bench for underactuated control",
-      "highlights": [
-        "Designed bipedal robot and a rotating testbench for conducting experiments on locomotion",
-        "Setup simulation environment and interfacing hardware and developing control architecture for the biped",
-      ],
+      "institution": "Eidgenössische Technische Hochschule Zürich",
+      "area": "Robotics, Systems and Control",
+      "studyType": "MSc",
+      "startDate": "2019-09-01",
+      "endDate": "present",
+      "gpa": "5.05"
     },
     {
-      "company": "R2D2 Lab, IIT Madras",
-      "position": "Undergraduate Researcher",
-      "website": "https://home.iitm.ac.in/r2d2/index.html",
-      "startDate": "2017-06-25",
-      "endDate": "2018-06-20",
-      "summary": "Knee joint mechanism for providing natural gait among patients with weak knee extensors",
+      "institution": "Indian Institute of Technology Madras",
+      "area": "Mechanical Engineering",
+      "studyType": "BTech",
+      "startDate": "2014-07-01",
+      "endDate": "2018-05-25",
+      "gpa": "9.51"
+    }
+  ],
+  "work": [
+    {
+      "company": "AMZ Driverless",
+      "position": "Software Lead",
+      "website": "https://driverless.amzracing.ch/en/home",
+      "startDate": "2019-10-01",
+      "endDate": "present",
+      "summary": "Fully autonomous electric racing team from ETH Zürich, participating in FSG",
       "highlights": [
-        "Devised an electromechanical clutch-based mechanism for achieving selective unlocking the orthoses and performed FEA for load verification",
-        "Prototyped a sample knee joint with necessary electronics for validating the mechanism and the control strategy",
-        "Developed purely mechanical system to perform selective locking of knee joint",
-        "Currently testing performance on UTM and able-bodied subjects"
-      ],
+        "Developing ‘AMZ Playground’ – extensible web application for visualization, simulation, and analysis",
+        "Overseeing software infrastructure, autonomous computer, and track-tools work packages",
+        "Developed ‘amz-tool’ to aid developers with updating dependencies, formatting, linting, and other functions",
+        "Coordinated autonomous software development, maintained FSSIM (Formula Student Simulator)",
+        "Setup and maintained self-hosted continuous integration (CI) servers for automated testing and feedback",
+        "Designed and built ground truth mapping device (GTMD) to tag racetrack using Real-time kinematic (RTK) service"
+      ]
     },
     {
       "company": "Team Anveshak",
@@ -66,7 +72,33 @@
         "Conducted a successful crowdfunding campaign, raising INR 1.75L ($2700) and efficiently administered team finances",
         "Networked with companies - Maxon and Pololu - for accessing excusive discounts on their products",
         "Co-heading the design of TeRA – Tele-operated Robotic Arm, a unique manipulator constructed for rover with end-to-end design analysis"
-      ],
+      ]
+    },
+    {
+      "company": "Intelligent and Dynamic Systems Lab, IIT Bombay",
+      "position": "Research Assistant",
+      "website": "https://viveksangwan.com/",
+      "startDate": "2018-08-25",
+      "endDate": "",
+      "summary": "Design of Biped Test Bench for underactuated control",
+      "highlights": [
+        "Designed bipedal robot and a rotating testbench for conducting experiments on locomotion",
+        "Setup simulation environment and interfacing hardware and developing control architecture for the biped"
+      ]
+    },
+    {
+      "company": "R2D2 Lab, IIT Madras",
+      "position": "Undergraduate Researcher",
+      "website": "https://home.iitm.ac.in/r2d2/index.html",
+      "startDate": "2017-06-25",
+      "endDate": "2018-06-20",
+      "summary": "Knee joint mechanism for providing natural gait among patients with weak knee extensors",
+      "highlights": [
+        "Devised an electromechanical clutch-based mechanism for achieving selective unlocking the orthoses and performed FEA for load verification",
+        "Prototyped a sample knee joint with necessary electronics for validating the mechanism and the control strategy",
+        "Developed purely mechanical system to perform selective locking of knee joint",
+        "Currently testing performance on UTM and able-bodied subjects"
+      ]
     },
     {
       "company": "Robotics Lab",
@@ -78,8 +110,8 @@
       "highlights": [
         "Simulated PID control on model - Lagrangian Mechanics in Mathematica",
         "Designed and fabricated a prototype containing 2 grippers linked serial chain providing the ability to locomote, grasp and perform in-hand manipulation enabled by intricate roller belt grasping mechanism",
-        "Experimented on the grasping force for objects of different sizes and shapes to use it as a parameter for comparison across grippers",
-      ],
+        "Experimented on the grasping force for objects of different sizes and shapes to use it as a parameter for comparison across grippers"
+      ]
     },
     {
       "company": "Skillveri Pvt Ltd",
@@ -90,7 +122,7 @@
       "highlights": [
         "Designed and fabricated Arc Welding Torch for VR simulator setup that utilizes a retracting rod mechanism for the electrode feed",
         "Integrated and programmed microcontroller for PID controlled retraction rate and  IMU orientation feedback"
-      ],
+      ]
     },
     {
       "company": "Detect Technologies",
@@ -101,8 +133,8 @@
       "highlights": [
         "Ported thermal camera core to GoPro form-factor for compatibility with existing gimbals on surveillance drones",
         "Adopted iterative designing and manufacturing cycles for achieving accurate tolerances and optimized weight distribution"
-      ],
-    },
+      ]
+    }
   ],
   "volunteer": [
     {
@@ -113,16 +145,6 @@
       "summary": "Recorded Lectures on topics - Conic sections and Calculus for distributing to unprivileged girl population of India"
     }
   ],
-  "education": [
-    {
-      "institution": "Indian Institute of Technology Madras",
-      "area": "Mechanical Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2014-07-01",
-      "endDate": "2018-05-25",
-      "gpa": "9.51"
-    }
-  ],
   "publications": [
     {
       "name": "GraspMan – A Novel Robotic Platform with Grasping, Manipulation, and Multimodal Locomotion Capability",
@@ -131,60 +153,41 @@
   ],
   "skills": [
     {
-      "name": "CAD modelling",
+      "name": "Programming",
       "level": "Master",
+      "keywords": [
+        "Python",
+        "C/C++",
+        "ROS",
+        "Docker",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "CAD modelling",
+      "level": "Intermediate",
       "keywords": [
         "Fusion 360",
         "Autodesk Inventor"
       ]
     },
     {
-      "name": "Programming",
-      "level": "Intermediate",
-      "keywords": [
-        "Python",
-        "C#",
-        "MATLAB"
-      ]
-    },
-    {
       "name": "Digital Electronics",
       "level": "Intermediate",
       "keywords": [
-        "Arduino",
-        "Raspberry Pi"
+        "Raspberry Pi",
+        "Nvidia Jetson",
+        "ESP32/8266"
       ]
     },
     {
       "name": "Web Development",
-      "level": "Beginner",
+      "level": "Intermediate",
       "keywords": [
-        "HTML/CSS",
-        "PHP",
-        "Jekyll"
+        "HTML/CSS/JS",
+        "Svelte",
+        "Flask"
       ]
     }
-  ],
-  "interests": [
-    {
-      "name": "Research",
-      "keywords": [
-        "Exoskeletons",
-        "Bipedal Robots",
-        "Manipulators and Graspers",
-        "Assistive Technologies",
-        "Mechanism Design",
-      ]
-    },
-    {
-      "name": "General",
-      "keywords": [
-        "Painting",
-        "Sculpting",
-        "Philosophy",
-        "Music",
-        "Violin"
-      ]
-    }
-  ],
+  ]
 }
